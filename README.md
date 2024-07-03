@@ -1,23 +1,3 @@
-<p align="center">
-  <img src=".github/stochastic_logo_light.svg#gh-light-mode-only" width="250" alt="Stochastic.ai"/>
-  <img src=".github/stochastic_logo_dark.svg#gh-dark-mode-only" width="250" alt="Stochastic.ai"/>
-</p>
-<h3 align="center">Build, modify, and control your own personalized LLMs</h3>
-
-<p align="center">
-  <a href="https://pypi.org/project/xturing/">
-    <img src="https://img.shields.io/pypi/v/xturing?style=for-the-badge" />
-  </a>
-  <a href="https://xturing.stochastic.ai/">
-    <img src="https://img.shields.io/badge/Documentation-blue?logo=GitBook&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://discord.gg/TgHXuSJEk6">
-    <img src="https://img.shields.io/badge/Chat-FFFFFF?logo=discord&style=for-the-badge"/>
-  </a>
-</p>
-
-<br>
-
 ___
 
 `xTuring` provides fast, efficient and simple fine-tuning of open-source LLMs, such as Mistral, LLaMA, GPT-J, and more.
@@ -281,3 +261,5 @@ The `model_path` can be replaced with you local directory or any HuggingFace lib
 - [x] Evaluation of LLM models
 - [ ] INT3, INT2, INT1 low-precision fine-tuning support
 - [ ] Support for Stable Diffusion
+
+## Belongs to Harvard, stochasticai group. Pulled locally for personal use.
