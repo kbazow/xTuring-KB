@@ -1,0 +1,9 @@
+{
+    "label": "🤝 Contributing",
+    "position": 4,
+    "link": {        
+        "type": "doc",
+        "id": "contributing"
+    },
+    "collapsed": true
+}
